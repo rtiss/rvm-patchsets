@@ -4,3 +4,4 @@ railsexpress/03-fork-support-for-gc-logging.patch
 railsexpress/04-track-live-dataset-size.patch
 railsexpress/05-load-performance-fix.patch
 railsexpress/06-trace-bmethods.patch
+railsexpress/07-fix-update-coverage.patch
